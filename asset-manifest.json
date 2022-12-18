@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Thermodynamics/static/css/main.5b961fca.css",
+    "main.js": "/Thermodynamics/static/js/main.029eeb8c.js",
+    "index.html": "/Thermodynamics/index.html",
+    "main.5b961fca.css.map": "/Thermodynamics/static/css/main.5b961fca.css.map",
+    "main.029eeb8c.js.map": "/Thermodynamics/static/js/main.029eeb8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b961fca.css",
+    "static/js/main.029eeb8c.js"
+  ]
+}
